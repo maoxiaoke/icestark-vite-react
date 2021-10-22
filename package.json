@@ -18,6 +18,6 @@
     "@vitejs/plugin-react": "^1.0.0",
     "typescript": "^4.3.2",
     "vite": "^2.6.0",
-    "vite-plugin-htmls": "^0.1.1"
+    "vite-plugin-index-html": "^0.1.0"
   }
 }
